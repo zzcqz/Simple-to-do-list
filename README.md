@@ -1,4 +1,4 @@
-## 事务时间表项目 v2（PySide6 + QML）
+## 简易待办事项 （PySide6 + QML）
 
 这是一个卡片式事务（父事件）列表应用，强调低干扰界面与时间线可视化。
 
@@ -21,7 +21,7 @@ python -m src.app
 - 本地数据存放在 `data/events.json`
 - 父事件字段：`id/title/note/start_at/end_at/urgent/done/sort_order/...`
 
-## Transaction Schedule Project v2 (PySide6+QML)
+## Simple to-do list (PySide6+QML)
 
 This is a card based transaction (parent event) list application that emphasizes a low interference interface and timeline visualization.
 
