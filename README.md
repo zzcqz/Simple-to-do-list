@@ -21,3 +21,24 @@ python -m src.app
 - 本地数据存放在 `data/events.json`
 - 父事件字段：`id/title/note/start_at/end_at/urgent/done/sort_order/...`
 
+## Transaction Schedule Project v2 (PySide6+QML)
+
+This is a card based transaction (parent event) list application that emphasizes a low interference interface and timeline visualization.
+
+## RUN
+
+1. Install dependencies
+
+```
+bash python -m pip install -r requirements.txt
+```
+2. Start
+
+```
+bash python -m src.app
+```
+
+### DATA
+
+- Local data is stored in `data/events.json`
+- Parent event field: `id/title/note/start_at/end_at/urgent/done/sort_order/...`
